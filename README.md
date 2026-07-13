@@ -17,7 +17,7 @@ Developed in **Keil µVision** as a mini/academic project.
 
 <p align="center">
   <img src="images /proteus_simulation/home_screen.png" width="45%" alt="EnviroTime Keil build output" />
-  <img src="images/software/software2.jpg" width="45%" alt="EnviroTime LCD output" />
+  <img src="images /proteus_simulation/rtc_edit_menu.png" width="45%" alt="EnviroTime LCD output" />
 </p>
 
 > Replace the filenames above (`hardware1.jpg`, `hardware2.jpg`, `software1.jpg`, `software2.jpg`) with your actual image filenames inside the `images/hardware/` and `images/software/` folders.
