@@ -9,7 +9,7 @@ Developed in **Keil µVision** as a mini/academic project.
 ### Hardware Setup
 
 <p align="center">
-  <img src="images/hardware/hardware1.jpg" width="45%" alt="EnviroTime hardware setup" />
+  <img src="images /hardware/WhatsApp Image 2026-07-13 at 9.54.01 AM.jpeg" width="45%" alt="EnviroTime hardware setup" />
   <img src="images/hardware/hardware2.jpg" width="45%" alt="EnviroTime hardware close-up" />
 </p>
 
