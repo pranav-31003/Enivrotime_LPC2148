@@ -10,7 +10,7 @@ Developed in **Keil µVision** as a mini/academic project.
 
 <p align="center">
   <img src="images /hardware/WhatsApp Image 2026-07-13 at 9.54.01 AM.jpeg" width="45%" alt="images /hardware/WhatsApp Image 2026-07-13 at 9.54.02 AM (1).jpeg" />
-  <img src="images/hardware/hardware2.jpg" width="45%" alt="EnviroTime hardware close-up" />
+  <img src="images /hardware/WhatsApp Image 2026-07-13 at 9.54.02 AM (1).jpeg" width="45%" alt="EnviroTime hardware close-up" />
 </p>
 
 ### Software / Simulation
