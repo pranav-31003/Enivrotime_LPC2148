@@ -4,6 +4,24 @@ EnviroTime is a bare-metal embedded C project built for the **LPC2148 (ARM7TDMI-
 
 Developed in **Keil µVision** as a mini/academic project.
 
+## Images
+
+### Hardware Setup
+
+<p align="center">
+  <img src="images/hardware/hardware1.jpg" width="45%" alt="EnviroTime hardware setup" />
+  <img src="images/hardware/hardware2.jpg" width="45%" alt="EnviroTime hardware close-up" />
+</p>
+
+### Software / Simulation
+
+<p align="center">
+  <img src="images/software/software1.jpg" width="45%" alt="EnviroTime Keil build output" />
+  <img src="images/software/software2.jpg" width="45%" alt="EnviroTime LCD output" />
+</p>
+
+> Replace the filenames above (`hardware1.jpg`, `hardware2.jpg`, `software1.jpg`, `software2.jpg`) with your actual image filenames inside the `images/hardware/` and `images/software/` folders.
+
 ## Features
 
 - **Live clock + calendar** — HH:MM:SS and DD/MM/YYYY with day of week, driven by the LPC2148's on-chip RTC
