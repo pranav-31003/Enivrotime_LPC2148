@@ -16,7 +16,7 @@ Developed in **Keil µVision** as a mini/academic project.
 ### Software / Simulation
 
 <p align="center">
-  <img src="images/software/software1.jpg" width="45%" alt="EnviroTime Keil build output" />
+  <img src="images /proteus_simulation/home_screen.png" width="45%" alt="EnviroTime Keil build output" />
   <img src="images/software/software2.jpg" width="45%" alt="EnviroTime LCD output" />
 </p>
 
